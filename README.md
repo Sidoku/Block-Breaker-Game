@@ -83,4 +83,4 @@ This single player game is a clone of Pong. The game was built as a solo project
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [linkedin-url]: https://www.linkedin.com/in/siddharthsinghai97/
-[portfolio-url]: https://sidsinghai97.wixsite.com/portfolio
+[portfolio-url]: https://sidoku.github.io
